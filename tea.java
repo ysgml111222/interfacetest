@@ -1,3 +1,3 @@
-mail () {
-
-}
+<?php
+echo 'runoob';
+?>
